@@ -1,0 +1,5 @@
+ 
+Outlier detection
+use Shiny to communicate the means of outlier detection. 
+The communication should be something that teaches the use of the chosen algorithm(s) from the allocated field through interaction. 
+The deliverable will be a shiny application .
