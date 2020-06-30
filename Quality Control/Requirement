@@ -1,0 +1,4 @@
+Using the supplied CSV data, generate control charts and answer the following questions:
+a) Is the memory usage of the server in control?
+b) Is the prediction time of the model in control?
+c) Is the stream of predictions in control?
