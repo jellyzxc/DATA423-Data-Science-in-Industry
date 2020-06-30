@@ -1,0 +1,5 @@
+About the data
+There are 380 observations of 20 variables in the data set. 
+The outcome variable is numeric, so it is a regression problem.
+Among the 19 predictors, only BloodType is nominal while others are numeric. 
+ 
