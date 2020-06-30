@@ -1,0 +1,11 @@
+1 About the raw data
+
+The raw data is from a CSV file without any introduction to the background.
+
+2 The number of observations and variable types
+
+This data frame has 300 observations of 44 variables. 
+After we loaded all the data by read.csv() in R at the beginning, we found that there are only two data types: factor and numeric. 
+The Date is a typical Datetime variable rather than a factor, 
+and other variables like Priority, Price, Speed, Duration, and Temp with apparent orders should be ordinal variables. 
+The types of these variables we mentioned need to be programmatically altered.
